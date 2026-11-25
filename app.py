@@ -12,3 +12,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+print("Automatic Jenkins build triggered after GitHub update!")
